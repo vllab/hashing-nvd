@@ -2,7 +2,7 @@
 
 ### [Project Page](https://lightbulb12294.github.io/hashing-nvd/) | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chan_Hashing_Neural_Video_Decomposition_with_Multiplicative_Residuals_in_Space-Time_ICCV_2023_paper.pdf)
 
-https://github.com/vllab/hashing-nvd/assets/13299616/c4639cb2-0f60-4171-9b8a-ad2e14a06f3a.mp4
+https://github.com/vllab/hashing-nvd/assets/13299616/432e4ca4-022e-4e46-bab3-423a50c667da
 
 ## Installation
 
